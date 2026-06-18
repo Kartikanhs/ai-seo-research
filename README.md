@@ -1,8 +1,6 @@
 # AI-Powered SEO Content Production — Research Repo
 
-Research project for research project— collecting and organizing content
-from 10 practitioners of AI-powered SEO content production, as the
-foundation for a future playbook.
+A research project dedicated to collecting and organizing content from 10 elite practitioners of AI-powered SEO content production, serving as the foundation for a future playbook.
 
 ## Why this topic
 
