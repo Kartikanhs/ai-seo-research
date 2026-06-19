@@ -13,8 +13,8 @@ As search engines transition into Answer Engines, traditional keyword-centric SE
 ## 2. EXPERT SOURCE TRACKING
 Data in this repository is dynamically aggregated from curated industry updates, technical documentation, and professional insights, including:
 * **Technical SEO & Crawlability:** Patrick Stox & Aleyda Solis
-* **Information Retrieval & LLM Mechanics:** Mike Ki & Eli Schwartz
-* **Search Quality & Algorithmic Trends:** Lily Ray & Kevin Indig
+* **Information Retrieval & LLM Mechanics:** Mike King & Eli Schwartz
+* **Search Quality & Algorithmic Trends* Lily Ray & Kevin Indig
 * *Data verified and compiled by @nhskartika*
 
 ---
@@ -29,7 +29,7 @@ Based on data aggregated from global experts, optimization for AI Search Engines
 
 ### B. Content Layout Optimization for LLMs
 * **Readiness & Parsing:** Generative models require highly structured data to extract information accurately.
-* **Technical Roadblocks:** Content hidden behind heavy interactive JavaScript elements or poorly formatted tables will be bypassed by LLMs.earch models will instead pull facts from competitors who present clean data via Structured Data/Schema.
+* **Technical Roadblocks:** Content hidden behind heavy interactive JavaScript elements or poorly formatted tables will be bypassed by LLMs. Search models will instead pull facts from competitors w present clean data via Structured Data/Schema.
 
 ### C. New-Era Measurement Framework (Tracking & Metrics)
 * **Moving Past Traditional GA4:** Standard click traffic metrics (Google Analytics 4) are no longer sufficient to measure success in the AI Search era.
